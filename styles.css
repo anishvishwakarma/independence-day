@@ -1,0 +1,19 @@
+
+.hero-image {
+  background-image: url("indian-flag.png");
+  background-color: #cccccc;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.videoww {
+  margin-left: 400px;
+}
+h1{
+  margin-left: 400px;
+}
+h2{
+  margin-left: 400px;
+}
